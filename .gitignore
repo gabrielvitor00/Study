@@ -8,6 +8,7 @@
 
 /studies/
 
+
 # Ignorar arquivos de dependências
 /requirements.txt
 /Pipfile
