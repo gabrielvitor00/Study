@@ -6,6 +6,7 @@
 
 /studies/
 
+
 # Ignorar arquivos de ambiente virtual
 venv/
 
