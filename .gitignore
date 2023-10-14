@@ -1,3 +1,11 @@
+# Ignorar ambientes virtuais Python
+/venv/
+/.venv/
+/env/
+/__pycache__/
+
+/studies/
+
 # Ignorar arquivos de ambiente virtual
 venv/
 
