@@ -9,6 +9,16 @@
 /studies/
 
 
+# Ignorar todos os diretórios "gavitsa"
+gavitsa/
+
+# Ignorar arquivos .pyc (arquivos de bytecode Python)
+*.pyc
+
+# Ignorar o diretório __pycache__
+__pycache/
+
+
 # Ignorar arquivos de dependências
 /requirements.txt
 /Pipfile
