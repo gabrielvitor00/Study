@@ -1,3 +1,28 @@
+# Ignorar ambientes virtuais Python
+/venv/
+/.venv/
+/env/
+/__pycache__/
+
+# Ignorar arquivos de dependências
+/requirements.txt
+/Pipfile
+/Pipfile.lock
+/conda-requirements.txt
+
+# Ignorar arquivos de modelos treinados
+/models/
+
+# Ignorar resultados e checkpoints de notebooks Jupyter
+*.ipynb_checkpoints/
+/output/
+
+# Ignorar resultados intermediários
+/results/
+/tmp/
+/cache/
+
+
 # Ignorar arquivos de ambiente virtual
 venv/
 
