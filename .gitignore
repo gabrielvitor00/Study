@@ -1,3 +1,7 @@
+# Ignorar venv
+
+/gavitsa/
+
 # Ignorar ambientes virtuais Python
 /venv/
 /.venv/
